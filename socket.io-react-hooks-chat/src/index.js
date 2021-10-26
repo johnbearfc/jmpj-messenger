@@ -10,13 +10,3 @@ ReactDOM.render(
     document.getElementById('root')
 )
 
-
-
-//Phil trying to break stuff.
-
-///Comment by Mel :)
-
-const someCode = () => {
-    someNewCodeByMel
-}
-
